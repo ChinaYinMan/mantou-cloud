@@ -1,0 +1,14 @@
+#=======================================Nacos配置==================================start
+namespace:
+  id: a28e2b23-a44d-41ab-89fd-673feab760d0
+spring:
+  cloud:
+    nacos:
+      # 通过namespace 将环境分离
+      config:
+        namespace: ${namespace.id}
+        server-addr: localhost:8848
+      discovery:
+        namespace: ${namespace.id}
+        server-addr: localhost:8848
+#=======================================Nacos配置==================================start
