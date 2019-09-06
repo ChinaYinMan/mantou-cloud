@@ -3,13 +3,13 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>business-oss</artifactId>
+        <artifactId>m-cloud</artifactId>
         <groupId>com.mantou.cloud</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>oss-server</artifactId>
+    <artifactId>m-starter</artifactId>
     <version>1.0-SNAPSHOT</version>
 
 
