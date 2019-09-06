@@ -14,7 +14,6 @@
         <module>m-gateway</module>
         <module>m-business</module>
         <module>m-common</module>
-        <module>m-nacos</module>
     </modules>
 
     <!-- 全局常量 -->
