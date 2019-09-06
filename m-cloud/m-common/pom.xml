@@ -11,6 +11,8 @@
 
     <artifactId>m-common</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <name>m-common</name>
+    <description>公共组件</description>
 
 
 

@@ -8,6 +8,8 @@
     <artifactId>m-cloud</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <name>m-cloud</name>
+    <description>馒头 - 分布式框架</description>
 
     <!-- 子项目 -->
     <modules>

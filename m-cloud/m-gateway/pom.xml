@@ -11,6 +11,8 @@
 
     <artifactId>m-gateway</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <name>m-gateway</name>
+    <description>网关模块</description>
 
 
 </project>

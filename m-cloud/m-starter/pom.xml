@@ -11,6 +11,8 @@
 
     <artifactId>m-starter</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <name>m-starter</name>
+    <description>starter模块</description>
 
 
 </project>
